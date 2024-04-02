@@ -7,6 +7,7 @@ Visualiza el Currículum Vitae haciendo [Clic aquí](https://1drv.ms/w/c/dd983fb
 
 # Cursos y Capacitaciones
 Aquí encontrarás todos los *Cursos y Capacitaciones* con sus detalles y visualización del mismo con comprobantes.
+Desliza o haz scroll hacia abajo para poder ver el contenido de este título.
 ## Cursa.
 Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios) con certificados, disponible en todos los dispositivos móviles. 
 ### Inteligencia Artificial.
