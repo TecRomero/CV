@@ -14,15 +14,15 @@ Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios)
 
 ### Inteligencia Artificial.
 - Conocimientos sobre IA, como utilizarlas, aplicación de Inteligencia Artificial.
-- **__Certificado:__**
+- **Certificado:**
 ![Certificado Inteligencia Artificial](https://i.imgur.com/tRc7twx.jpeg) 
 
 ### Prevención y Lucha contra incendios.
 - Acción que ejecutar en caso de incendios en el ambiente laboral, para luchar contra el fuego, guiar y prevenir.
-- **__Certificado:__**
+- **Certificado:**
 ![Certificado Lucha contra incendios](https://i.imgur.com/JKskVTZ.jpeg)
 
 ### Reabastecimiento de Inventario y Mercancía.
 - Conocimientos sobre como abastecer el inventario del local o empresa, precauciones a tener en cuenta para evitar perdidas o exceso de inventario.
-- **__Certificado:__**
+- **Certificado:**
 ![Certificado Reabastecimiento de Inventario](https://i.imgur.com/RvXRGAb.jpeg)
