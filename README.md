@@ -3,7 +3,7 @@
 Futuro Electromecánico en Secundaria EEST Técnica N°1, actualmente cursando séptimo año.
 
 # Mapa Guía.
-Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver.
+Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver con solo tocar un titulo de los siguientes.
 - **[Experiencia Laboral](https://github.com/TecRomero/CV/blob/main/README.md#experiencia-laboral)**
 - **[Cursos y Capacitaciones](https://github.com/TecRomero/CV/blob/main/README.md#cursos-y-capacitaciones)**
   - **[Cursa](https://github.com/TecRomero/CV/blob/main/README.md#cursa)**
