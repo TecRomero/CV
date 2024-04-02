@@ -4,12 +4,12 @@ Futuro Electromecánico en Secundaria EEST Técnica N°1, actualmente cursando s
 
 # Mapa Guía.
 Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver.
-- **[Experiencia Laboral](https://github.com/TecRomero/CV/edit/main/README.md#experiencia-laboral)**
-- **[Cursos y Capacitaciones](https://github.com/TecRomero/CV/edit/main/README.md#cursos-y-capacitaciones)**
+- **[Experiencia Laboral](https://github.com/TecRomero/CV/main/README.md#experiencia-laboral)**
+- **[Cursos y Capacitaciones](https://github.com/TecRomero/CV/main/README.md#cursos-y-capacitaciones)**
   - **[Cursa](https://github.com/TecRomero/CV/edit/main/README.md#cursa)**
-    - **[Inteligencia Artificial](https://github.com/TecRomero/CV/edit/main/README.md#inteligencia-artificial)**
-    - **[Prevencion y Lucha contra incendios](https://github.com/TecRomero/CV/edit/main/README.md#prevenci%C3%B3n-y-lucha-contra-incendios)**
-    - **[Reabastecimiento de Inventario y Mercancía](https://github.com/TecRomero/CV/edit/main/README.md#reabastecimiento-de-inventario-y-mercanc%C3%ADa)**
+    - **[Inteligencia Artificial](https://github.com/TecRomero/CV/main/README.md#inteligencia-artificial)**
+    - **[Prevencion y Lucha contra incendios](https://github.com/TecRomero/CV/main/README.md#prevenci%C3%B3n-y-lucha-contra-incendios)**
+    - **[Reabastecimiento de Inventario y Mercancía](https://github.com/TecRomero/CV/main/README.md#reabastecimiento-de-inventario-y-mercanc%C3%ADa)**
 
 # Currículum Vitae.
 Visualiza el Currículum Vitae haciendo [Clic aquí](https://1drv.ms/w/c/dd983fb7c8533714/EWpGlWsvDzlFi7RuluB6z2wBqR_n51qd8OOciMMeS8Butw?e=evc3oH).
