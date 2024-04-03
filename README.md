@@ -10,6 +10,7 @@ Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que neces
     - **[Inteligencia Artificial](https://github.com/TecRomero/CV/blob/main/README.md#inteligencia-artificial)**
     - **[Prevencion y Lucha contra incendios](https://github.com/TecRomero/CV/blob/main/README.md#prevenci%C3%B3n-y-lucha-contra-incendios)**
     - **[Reabastecimiento de Inventario y Mercancía](https://github.com/TecRomero/CV/blob/main/README.md#reabastecimiento-de-inventario-y-mercanc%C3%ADa)**
+    - **[Higiene industrial y ocupacional](https://github.com/TecRomero/CV/blob/main/README.md#higiene-industrial-y-ocupacional)**
 
 # Currículum Vitae.
 Visualiza el Currículum Vitae haciendo [Clic aquí](https://1drv.ms/w/c/dd983fb7c8533714/EWpGlWsvDzlFi7RuluB6z2wBqR_n51qd8OOciMMeS8Butw?e=evc3oH).
@@ -39,3 +40,8 @@ Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios)
 - Conocimientos sobre como abastecer el inventario del local o empresa, precauciones a tener en cuenta para evitar perdidas o exceso de inventario.
 - **Certificado:**
 ![Certificado Reabastecimiento de Inventario](https://i.imgur.com/RvXRGAb.jpeg)
+
+### Higiene industrial y ocupacional.
+- Conocimientos sobre los distintos agentes que hay, identificarlos, medir el nivel de perjudicial para saber si es tolerable o se necesita interferir.
+- **Certificado:**
+![Certificado Higiene industrial y ocupacional](https://i.imgur.com/C0L11nT.jpeg)
