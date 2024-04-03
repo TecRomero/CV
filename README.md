@@ -42,6 +42,6 @@ Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios)
 ![Certificado Reabastecimiento de Inventario](https://i.imgur.com/RvXRGAb.jpeg)
 
 ### Higiene industrial y ocupacional.
-- Conocimientos sobre los distintos agentes que hay, identificarlos, medir el nivel de perjudicial para saber si es tolerable o se necesita interferir.
+- Conocimientos sobre los distintos agentes (quimicos, físicos, biológicos), revisión y monitoreo, identificar posibles peligros, estimación de peligros, evaluación e implementación de las medidas de control.
 - **Certificado:**
 ![Certificado Higiene industrial y ocupacional](https://i.imgur.com/C0L11nT.jpeg)
