@@ -1,6 +1,9 @@
 # Perfíl
 18 años de edad, nacimiento 8 de agosto de 2005.\
 Futuro Electromecánico en Secundaria EEST Técnica N°1, actualmente cursando séptimo año.
+\
+Indica que recomiendas a este trabajador dando click en [![GitHub stars](https://img.shields.io/github/stars/TecRomero/CV.svg?style=social&label=Recomendado)](https://github.com/TecRomero/CV)
+
 
 # Mapa Guía.
 Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver con solo tocar un titulo de los siguientes.
