@@ -18,14 +18,13 @@ Visualiza el Currículum Vitae haciendo [Clic aquí](https://1drv.ms/w/c/dd983fb
 # Experiencia laboral.
 En este apartado se almacenara toda experiencia laboral con su informacion correspondiente.
 
-**SIN EXPERIENCIA LABORAL.**
+### Hospital Privado SADIV [ 2 Meses ]
+Cuento con 2 meses de experiencia en el area de Mantenimiento del Hospital Privado SADIV como Prácticas Profesionalizantes.
+Haciendo mantenimiento general y cooperando en equipo para solucionar problemas que suceden dentro del Hospital.
+
 # Cursos y Capacitaciones
 Aquí encontrarás todos los *Cursos y Capacitaciones* con sus detalles y visualización del mismo con comprobantes.\
 Desliza o haz scroll hacia abajo para poder ver el contenido de este título.
-
-### Hospital Privado SADIV [ 2 Meses ]
-Cuento con 2 meses de experiencia en el area de Mantenimiento del Hospital Privado SADIV.
-Haciendo mantenimiento general y cooperando en equipo para solucionar problemas que suceden dentro del Hospital.
 
 ## Cursa.
 Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios) con certificados, disponible en todos los dispositivos móviles. 
