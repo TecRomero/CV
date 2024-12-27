@@ -5,6 +5,7 @@ Técnico Electromecánico en Secundaria EEST Técnica N°1. Título en trámite.
 # Mapa Guía.
 Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver con solo tocar un titulo de los siguientes.
 - **[Experiencia Laboral](https://github.com/TecRomero/CV/blob/main/README.md#experiencia-laboral)**
+  - **[Hospital Privado SADIV]()**
 - **[Cursos y Capacitaciones](https://github.com/TecRomero/CV/blob/main/README.md#cursos-y-capacitaciones)**
   - **[Cursa](https://github.com/TecRomero/CV/blob/main/README.md#cursa)**
     - **[Inteligencia Artificial](https://github.com/TecRomero/CV/blob/main/README.md#inteligencia-artificial)**
