@@ -1,6 +1,6 @@
 # Perfíl
-18 años de edad, nacimiento 8 de agosto de 2005.\
-Futuro Electromecánico en Secundaria EEST Técnica N°1, actualmente cursando séptimo año.
+19 años de edad, nacimiento 8 de agosto de 2005.\
+Técnico Electromecánico en Secundaria EEST Técnica N°1. Título en trámite.
 
 # Mapa Guía.
 Usa esta guía para ir a la ubicacion rapidamente y buscar informacion que necesite ver con solo tocar un titulo de los siguientes.
@@ -22,6 +22,10 @@ En este apartado se almacenara toda experiencia laboral con su informacion corre
 # Cursos y Capacitaciones
 Aquí encontrarás todos los *Cursos y Capacitaciones* con sus detalles y visualización del mismo con comprobantes.\
 Desliza o haz scroll hacia abajo para poder ver el contenido de este título.
+
+### Hospital Privado SADIV [ 2 Meses ]
+Cuento con 2 meses de experiencia en el area de Mantenimiento del Hospital Privado SADIV.
+Haciendo mantenimiento general y cooperando en equipo para solucionar problemas que suceden dentro del Hospital.
 
 ## Cursa.
 Aplicación de cursos Onlines (Contando con videos, libros, audios y ejercicios) con certificados, disponible en todos los dispositivos móviles. 
