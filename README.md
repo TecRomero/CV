@@ -27,7 +27,7 @@ En este apartado se almacenara toda experiencia laboral con su informacion corre
 Mantenimiento General. | Cuento con 2 meses de experiencia en el area de Mantenimiento del Hospital Privado SADIV como Prácticas Profesionalizantes.
 Haciendo mantenimiento general y cooperando en equipo para solucionar problemas que suceden dentro del Hospital. • San Pedro (B2930), Buenos Aires. • [ 05/08/24 | 04/10/24 ]
 
-### Municipalidad de San Pedro. [ Actualidad ] 
+### Municipalidad de San Pedro. [ 8 Meses ] 
 
 Mantenimiento General. | Realización de mantenimiento de sectores públicos y municipales de la localidad de San Pedro. • San Pedro (B2930), Buenos Aires. • [ 11/08/25 | 13/03/26 ]
 
