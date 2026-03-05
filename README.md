@@ -29,7 +29,7 @@ Haciendo mantenimiento general y cooperando en equipo para solucionar problemas 
 
 ### Municipalidad de San Pedro. [ Actualidad ] 
 
-Mantenimiento General. | Realización de mantenimiento de sectores públicos y municipales de la localidad de San Pedro. • San Pedro (B2930), Buenos Aires. • [ 20/08/25 | Actualidad ]
+Mantenimiento General. | Realización de mantenimiento de sectores públicos y municipales de la localidad de San Pedro. • San Pedro (B2930), Buenos Aires. • [ 11/08/25 | 13/03/26 ]
 
 
 # Títulos, Licenciaturas.
@@ -39,9 +39,10 @@ En este apartado se mencionan los Títulos obtenidos, de dónde proviene y los q
 EEST N°1, San Pedro (B2930), Buenos Aires.
 Graduado en tiempo y forma, sin adeudar materias.
 
-## Técnico en Seguridad e Higiene (Cursando)
-ISFT 192, Baradero (B2942), Buenos Aires.
-Actualmente cursando 1er (Primer) año.
+## Técnico en Seguridad e Higiene (CURSANDO)
+1er Año: ISFT 192, Baradero (B2942), Buenos Aires.
+2do año: ITEC Rafael de Aguiar, San Nicolás (2900), Buenos Aires.
+Actualmente cursando 2do (Segundo) año.
 Meta: Conseguir ser licenciado en S&H.
 
 # Cursos y Capacitaciones
